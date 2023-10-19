@@ -1,0 +1,58 @@
+
+body {
+    font-family: serif, Courier New;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #610c10;
+    padding: 20px;
+    font-family: Brush Script MT;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+nav {
+    background-color: #000;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Estilos para secciones */
+
+.row{
+    margin: 0;
+}
+
+
+/* Estilos para el pie de página */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000;
+    color: #777;
+}
