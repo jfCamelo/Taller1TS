@@ -1,0 +1,23 @@
+
+body {
+    font-family: serif, Courier New;
+    background-color: #fff;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #25848c;
+    padding: 20px;
+    font-family: Brush Script MT;
+}
+
+.form-control {
+    width: min-content;
+}
+
+.navbar {
+    background-color: #4c80c3;
+}
